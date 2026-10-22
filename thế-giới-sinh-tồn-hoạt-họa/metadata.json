@@ -1,0 +1,6 @@
+{
+  "name": "Thế Giới Sinh Tồn Hoạt Họa",
+  "description": "Trò chơi hoạt họa sinh tồn thế giới thực: tạo tài khoản, chọn năng lực đặc biệt và kiếm tiền sinh tồn.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
